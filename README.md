@@ -2,7 +2,7 @@
 
 # 🧮 Simple Calculator - Python
 
-This is my **first Python project!** A simple calculator that performs 4 basic operations.
+A simple calculator that performs 4 basic operations.
 
 ## Features
 - ➕ Addition
@@ -19,7 +19,5 @@ python calculator.py
 - Python 3.x
 
 ## Author
-**Javeria** (GitHub: @javeria-png) — First GitHub Project 🚀
-
----
-Made with ❤️ while learning Python
+**Javeria** (GitHub: @javeria-png) 
+javeria.stack@gmail.com
